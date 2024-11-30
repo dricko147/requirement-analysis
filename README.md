@@ -141,8 +141,8 @@ Interview each stakeholder and end-user individually. This technique will help y
 
 <b>Examples:</b>
 <ul>
-<li>What are the features that we need to design for this system?<li>
-<li>What are the edge cases we need to consider, if any, in our design?<li></ul>
+<li>What are the features that we need to design for this system?</li>
+<li>What are the edge cases we need to consider, if any, in our design?</li></ul>
 
 <br>
 <br>

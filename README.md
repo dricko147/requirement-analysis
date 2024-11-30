@@ -111,9 +111,45 @@ Interview each stakeholder and end-user individually. This technique will help y
 <h2>“Types of Requirements.”</h2>
 
 <h3>Non-functional requirements</h3>
-<p>These describe how the system should perform (e.g., performance, security, scalability). They are important because they ensure the system meets user expectations in terms of speed, security, and reliability.</p>
+<p>These are the quality constraints that the system must satisfy according to the project contract. The priority or extent to which these factors are implemented varies from one project to another.</p>
+<br>
+<p>These describe how the system should perform (e.g., performance, security, scalability). They are important because they ensure the system meets user expectations in terms of speed, security, and reliability.They are also called non-behavioral requirements. They deal with issues like:</p>
+
+<ul>
+<li>Portability</li>
+<li>Security</li>
+<li>Maintainability</li>
+<li>Reliability</li>
+<li>Scalability</li>
+<li>Performance</li>
+<li>Reusability</li>
+<li>Flexibility</li></ul>
+<br>
+<b>Examples:</b>
+<ul>
+<li>Each request should be processed with the minimum latency?
+</li>
+<li>System should be highly valuable.</li>
+</ul>
 
 <br>
 
 <h3>Functional requirements</h3>
-<p></p>
+<p>These are the requirements that the end user specifically demands as basic facilities that the system should offer. All these functionalities need to be necessarily incorporated into the system as a part of the contract.</p>
+<br>
+<p>These are represented or stated in the form of input to be given to the system, the operation performed and the output expected. They are the requirements stated by the user which one can see directly in the final product, unlike the non-functional requirements.</p>
+
+<b>Examples:</b>
+<ul>
+<li>What are the features that we need to design for this system?<li>
+<li>What are the edge cases we need to consider, if any, in our design?<li></ul>
+
+<br>
+<br>
+
+<h3>“Use Case Diagrams.”</h3>
+
+<br>
+<br>
+
+<h3></h3>

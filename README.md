@@ -105,3 +105,15 @@ Interview each stakeholder and end-user individually. This technique will help y
 <p>All the necessary corrections are done at this stage. All ambiguities are removed, and the data flow is examined across various models. The elicitation process and subsequent analysis lead to a greater understanding of the system. So finally, the requirements are approved, and the documentation begins. </p>
 <p>Once a final decision is made on the requirements, ensure that you get a signed Agreement/Validation from the key stakeholders. This is done to ensure that there are no changes or uncontrolled growth in the scope of the project. </p>
 
+<br>
+<br>
+
+<h2>“Types of Requirements.”</h2>
+
+<h3>Non-functional requirements</h3>
+<p>These describe how the system should perform (e.g., performance, security, scalability). They are important because they ensure the system meets user expectations in terms of speed, security, and reliability.</p>
+
+<br>
+
+<h3>Functional requirements</h3>
+<p></p>

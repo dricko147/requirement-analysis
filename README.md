@@ -30,23 +30,78 @@
 
 <h2>“Key Activities in Requirement Analysis.”</h2>
 
-<h3>The 5 five key activities involved in Requirement Analysis, include:</3>
-<ul>
+<h3>The 5 Key Activities in Requirement Analysis, include:</3>
+<ol>
 <li>Requirement Gathering</li>
 <li>Requirement Elicitation</li>
 <li>Requirement Documentation</li>
 <li>Requirement Analysis and Modeling</li>
-<li>Requirement Validation.</li></ul>
+<li>Requirement Validation.</li></ol>
 
 <h3><h3>
 <h3>Requirement Gathering:</h3>
-<p></p>
-<h3>Requirement Elicitation:</h3>
-<p></p>
-<h3>Requirement Documentation:</h3>
-<p></p>
-<h3>Requirement Analysis and Modeling:</h3>
-<p></p>
+<p>Identify and gather the Requirements needed for the project to succeed and what is desired by  Stakeholders and End-Users</p>
+<br>
+The first step of the requirements analysis process is to identify key stakeholders who are the main sponsors of the project. They will have the final say on what should be included in the scope of the project. 
+
+Next, identify the end-users of the product. Since the product is intended to satisfy their needs, their inputs are equally important. </p>
+
+<p>Ask each of the stakeholders and end-users their requirements for the new product. Here are some requirements analysis techniques that you can use to capture requirements:</p>
+<br>
+<b>1. Hold One-On-One Interviews<b>
+<p>
+Interview each stakeholder and end-user individually. This technique will help you gather specific requirements.</p>
+<b>2. Use Focus Groups</b>
+<p>Conduct group interviews or group workshops to understand the flow of information between different stakeholders and end-users. This technique will ensure that there will be no conflict of interest later on during the project.</p>
+<b>3. Utilize Use Cases</b>
+<p>Use cases provide a walkthrough of the entire product through the eyes of the end-user. This technique will help visualize how the product will actually work.</p>
+<b>4. Build Prototypes</b>
+<p>A prototype provides users a sample look and feel of the final product. This technique will help address feasibility issues and identify problems ahead of time.</p>
+
+<br>
+
+<h3>Requirement Elicitation</h3>
+<p>Since requirements can be of various types, they should be grouped to avoid confusion. Requirements are usually divided into four categories:<p>
+<ul>
+<li><b>Functional Requirements:</b> Functions the product is required to perform.</li>
+<li><b>Technical Requirements:</b> Technical issues to be considered for the successful implementation of the product.</li>
+<li><b>Transitional Requirements:</b> Steps required to implement a new product smoothly.</li>
+<li><b>Operational Requirements:</b> Operations to be carried out in the backend for proper functioning of the product.</li>
+
+<br>
+
+<h3>Requirement Documentation</h3>
+<p>Once the requirements are categorized, determine which requirements are actually achievable and document each one of them. Here are some techniques to analyze and interpret requirements:</p>
+
+<h4>Define Requirements Precisely</h4>
+<P>Ensure that the requirements are clearly worded, sufficiently detailed, and related to business needs.</p>
+
+<h4>Prioritize Requirements</h4>
+<p>Prioritize requirements and list them out based on which ones are the “most critical” and which ones are just “nice-to-have”.</p>
+
+<h4>Carry Out an Impact Analysis<h4>
+<p>Carry out an impact analysis to make sure that you fully understand the consequences of the requirements.</p>
+
+<h4>Resolve Conflicts</h4>
+<p>Arrange a meeting with key stakeholders and resolve conflicting requirements. You can also perform a scenario analysis to explore how the requirements would work for different possible scenarios.</p>
+
+<h4>Analyze Feasibility</h4>
+<p>Perform a detailed analysis of the product based on the requirements gathered to determine its reliability and to identify any major problems.</p>
+
+<p>Once all the requirements are analyzed, create a detailed written document and circulate it among the key stakeholders, end-users and development teams.<p>
+
+<br>
+
+<h3>Requirement Analysis and Modeling</h3>
+<p>This stage involves creating requirement models that ultimately allow customers and stakeholders to imagine the product in the making. Various functions, data tables, external elements, and their relation to each other are represented in graphical forms. A graphical viewing of these things assists in finding flaws in the requirements. It allows the developers to see if there are any inconsistencies, missing, wrong, or unnecessary elements added to the system. Such requirement models can be divided into the following categories.</p>
+
+<ul>
+<li><b>Data Flow Diagram:</b> A graphical preparation using symbols and notations to show how a business operates through data movement.</li>
+<li><b>Entity-Relationship diagram:</b> A flowchart describing how things like people, a concept, or an object are related within a system.</li>
+<li><b>Data Dictionaries:</b> These contain different definitions, names, and other forms of data elements utilized within the project.</li>
+<li><b>State-transition diagrams:</b> They represent the changes that take place within the system</li></ul>
+<br>
 <h3>Requirement Validation:</h3>
-<p></p>
+<p>All the necessary corrections are done at this stage. All ambiguities are removed, and the data flow is examined across various models. The elicitation process and subsequent analysis lead to a greater understanding of the system. So finally, the requirements are approved, and the documentation begins. </p>
+<p>Once a final decision is made on the requirements, ensure that you get a signed Agreement/Validation from the key stakeholders. This is done to ensure that there are no changes or uncontrolled growth in the scope of the project. </p>
 

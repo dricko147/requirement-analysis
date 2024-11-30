@@ -29,3 +29,24 @@
 <br>
 
 <h2>“Key Activities in Requirement Analysis.”</h2>
+
+<h3>The 5 five key activities involved in Requirement Analysis, include:</3>
+<ul>
+<li>Requirement Gathering</li>
+<li>Requirement Elicitation</li>
+<li>Requirement Documentation</li>
+<li>Requirement Analysis and Modeling</li>
+<li>Requirement Validation.</li></ul>
+
+<h3><h3>
+<h3>Requirement Gathering:</h3>
+<p></p>
+<h3>Requirement Elicitation:</h3>
+<p></p>
+<h3>Requirement Documentation:</h3>
+<p></p>
+<h3>Requirement Analysis and Modeling:</h3>
+<p></p>
+<h3>Requirement Validation:</h3>
+<p></p>
+

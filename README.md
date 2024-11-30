@@ -147,9 +147,27 @@ Interview each stakeholder and end-user individually. This technique will help y
 <br>
 <br>
 
-<h3>“Use Case Diagrams.”</h3>
+<h2>“Use Case Diagrams.”</h2>
 
 <br>
 <br>
 
-<h3></h3>
+<h2>“Acceptance Criteria.”</h2>
+<h3>importance of Acceptance Criteria in Requirement Analysis</h3>
+<p>Acceptance criteria establish conditions to fulfill for the item to be complete. These criteria measure the success of the development process, ensuring that the delivered functionality aligns with the user's requirements.</p>
+<br>
+<p>An example of acceptance criteria for a feature like the Checkout feature in the booking management system.</p>
+<p>The Given/When/Then acceptance criteria example 1</p>
+
+<p><b>User story:</b> As a website user, I want to be able to recover the password to my account, so that I will be able to access my account in case I forgot the password.</p>
+<p><b>Scenario:<b> Forgot password</p>
+
+<ul>
+<li><b>Given:</b> The user navigates to the login page</li>
+<li><b>When:</b> The user selects <forgot password> option</li>
+<li><b>And:</b> Enters a valid email to receive a link for password recovery</li>
+<li><b>Then:</b> The system sends the link to the entered email</li>
+<li><b>Given:</b> The user receives the link via the email</li>
+<li><b>When:</b> The user navigates through the link received in the email</li>
+<li><b>Then:</b> The system enables the user to set a new password</li></ul>
+
